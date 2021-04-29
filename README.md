@@ -1,5 +1,5 @@
 # Password Validation Component - React 
-👉[Demo](https://react-youtube-videos.herokuapp.com/)👈
+👉[Demo](https://react-password-validation.herokuapp.com/)👈
 
 ## What is this project? 🤔
 * I made a reusable function component, which validates a password's input field.
