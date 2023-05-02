@@ -1,5 +1,5 @@
 # Password Validation Component - React 
-👉[Demo](https://react-password-validation.herokuapp.com/)👈
+👉[Demo](https://redwan-react-pw-component.netlify.app/)👈
 
 ## What is this project? 🤔
 * I made a reusable function component, which validates a password's input field.
